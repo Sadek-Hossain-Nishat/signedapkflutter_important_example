@@ -1,0 +1,6 @@
+Publishable key: 
+pk_test_51Lm6gpAyYc99LEqTOPGZqOwSLWC1DyvY4ZXosViktcPWcSalzPNV2jOZolYNz8xbjPScOro3U2uVIR2UnkT28EbU00sZ0Sz4u7
+
+
+Secret key:
+sk_test_51Lm6gpAyYc99LEqTo6hwZ9CwYt5IFlppgwvAhLytGFeIfXv98frLCg1RA1Xe4P9yjuVj2otzyYkf67U3yTda3oOK00Dd93A4eQ
